@@ -18,7 +18,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 4. Add app name and deploy 
 5. Watch your heroku log 
 
-##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
+##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/Gqlks3L9FQs)
 
 
 <div align="left">
@@ -41,8 +41,8 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
++ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/L9DS31XNKGtAR3DiLN6AvF) 
++ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/923216740469?text=From_Queen_Elisa_Md_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
@@ -85,14 +85,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.owner = ['923216740469'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['93216740469'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923216740469'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Taskeen baloch' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.packname = 'Taskeen baloch923216740469' // Sticker package name 
+global.author = 'Taskeen923216740469' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
